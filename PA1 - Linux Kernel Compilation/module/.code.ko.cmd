@@ -1,0 +1,1 @@
+cmd_/home/student/pa1-10445111/module/code.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/pa1-10445111/module/code.ko /home/student/pa1-10445111/module/code.o /home/student/pa1-10445111/module/code.mod.o ;  true
